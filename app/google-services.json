@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108674382548",
+    "project_id": "surfitapema-b4513",
+    "storage_bucket": "surfitapema-b4513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108674382548:android:d5961d965ff91688659941",
+        "android_client_info": {
+          "package_name": "com.surf.surfitapema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108674382548-c159ot1h7nke3rdj75f47cu1ia9jrc02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS2ufV5fFvZzueM1-rhu5ko60NUFCeWtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108674382548-c159ot1h7nke3rdj75f47cu1ia9jrc02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

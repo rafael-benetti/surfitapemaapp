@@ -1,0 +1,7 @@
+Executable : C:\Users\Rafa\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\Users\Rafa\Desktop\V134\applicativo\app\.cxx\cmake\debug\x86_64
+api_config
+jvmArgs : 
+

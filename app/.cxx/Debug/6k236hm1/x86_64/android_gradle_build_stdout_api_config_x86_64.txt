@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\User\Documents\surfitapemaapp\app\.cxx\Debug\6k236hm1\x86_64'
+ninja: no work to do.

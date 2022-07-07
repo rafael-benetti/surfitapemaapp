@@ -1,0 +1,3 @@
+C:/Users/User/Documents/surfitapemaapp/app/.cxx/Debug/6k236hm1/x86_64/CMakeFiles/api_config.dir
+C:/Users/User/Documents/surfitapemaapp/app/.cxx/Debug/6k236hm1/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/surfitapemaapp/app/.cxx/Debug/6k236hm1/x86_64/CMakeFiles/rebuild_cache.dir

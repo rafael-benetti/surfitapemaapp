@@ -1,0 +1,7 @@
+Executable : C:\Users\Servidor\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Servidor\Desktop\surfitapemaapp\app\.cxx\Debug\z4h3y1ot\x86
+api_config
+jvmArgs : 
+

@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\User\\Documents\\surfitapemaapp-master\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\User\\Documents\\surfitapemaapp-master\\app\\.cxx\\Debug\\26271j6u\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\User\\Documents\\surfitapemaapp-master\\app\\.cxx\\Debug\\26271j6u\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "api_config-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\User\\Documents\\surfitapemaapp-master\\app\\.cxx\\Debug\\26271j6u\\x86",
+        "api_config"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "api_config",
+      "output": "C:\\Users\\User\\Documents\\surfitapemaapp-master\\app\\build\\intermediates\\cxx\\Debug\\26271j6u\\obj\\x86\\libapi_config.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

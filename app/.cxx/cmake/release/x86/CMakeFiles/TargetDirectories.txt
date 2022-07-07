@@ -1,0 +1,3 @@
+D:/Users/Rafa/Desktop/V134/applicativo/app/.cxx/cmake/release/x86/CMakeFiles/api_config.dir
+D:/Users/Rafa/Desktop/V134/applicativo/app/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+D:/Users/Rafa/Desktop/V134/applicativo/app/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir
