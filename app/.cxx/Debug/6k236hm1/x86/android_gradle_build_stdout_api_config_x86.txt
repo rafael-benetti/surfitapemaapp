@@ -1,3 +1,2 @@
 ninja: Entering directory `C:\Users\User\Documents\surfitapemaapp\app\.cxx\Debug\6k236hm1\x86'
-[1/2] Building CXX object CMakeFiles/api_config.dir/api_config.cpp.o
-[2/2] Linking CXX shared library C:\Users\User\Documents\surfitapemaapp\app\build\intermediates\cxx\Debug\6k236hm1\obj\x86\libapi_config.so
+ninja: no work to do.

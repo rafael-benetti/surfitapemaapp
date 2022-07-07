@@ -11,7 +11,7 @@
     <string name="app_name">Surfitapema</string>
     <!--app_title for main navigation & home title-->
     <string name="app_title">Boletim e previsão de ondas</string>
-    <string name="app_version">1.4.4</string>
+    <string name="app_version">1.5.2</string>
     <string name="contact_email">contato@surfitapema.com.br</string>
     <string name="copyright_text">Rafael Benetti - @surfitapema</string>
     <!-- App -->
@@ -156,7 +156,7 @@
     <string name="program_guide">Program Guide</string>
     <string name="live">Câmeras</string>
     <string name="watching_on">Ao Vivo </string>
-    <string name="all_tv_channel">All TV Channels</string>
+    <string name="all_tv_channel">Mais Câmeras ->>></string>
     <string name="you_may_also_like">Você pode gostar brou</string>
     <string name="dark_mode">Modo escuro</string>
     <string name="tv_channels">Tv Channels</string>

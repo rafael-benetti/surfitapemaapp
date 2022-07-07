@@ -1,4 +1,4 @@
-# Surfi Itapema App--version 1.5.1
+# Surfi Itapema App--version 1.5.2
 Notas da versão no idioma pt-BR<br />
 Deixamos a home mais clean<br />
 Correção nas Traduções<br />

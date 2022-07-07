@@ -27,8 +27,8 @@ android {
         applicationId "com.surf.surfitapema"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 51
-        versionName "1.5.1"
+        versionCode 52
+        versionName "1.5.2"
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
